@@ -24,27 +24,27 @@ This repository contains combinations of [Part-Aware Data Augmentation for 3D Ob
 ## Citation
 If you find this code useful in your research, please consider citing our work:
 ```
-    @inproceedings{choi2021part,
-        title={Part-aware data augmentation for 3d object detection in point cloud},
-        author={Choi, Jaeseok and Song, Yeji and Kwak, Nojun},
-        booktitle={2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-        pages={3391--3397},
-        year={2021},
-        organization={IEEE}
-    }
+@inproceedings{choi2021part,
+  title={Part-aware data augmentation for 3d object detection in point cloud},
+  author={Choi, Jaeseok and Song, Yeji and Kwak, Nojun},
+  booktitle={2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={3391--3397},
+  year={2021},
+  organization={IEEE}
+}
 ```
 
 ```
-  @article{choi2022md3d,
-      author={Choi, Jaeseok and Song, Yeji and Kim, Yerim and Yoo, Jaeyoung and Kwak, Nojun},
-      journal={IEEE Access}, 
-      title={MD3D: Mixture-Density-Based 3D Object Detection in Point Clouds}, 
-      year={2022},
-      volume={10},
-      number={},
-      pages={104011-104022},
-      doi={10.1109/ACCESS.2022.3210108}
-  }
+@article{choi2022md3d,
+  author={Choi, Jaeseok and Song, Yeji and Kim, Yerim and Yoo, Jaeyoung and Kwak, Nojun},
+  journal={IEEE Access}, 
+  title={MD3D: Mixture-Density-Based 3D Object Detection in Point Clouds}, 
+  year={2022},
+  volume={10},
+  number={},
+  pages={104011-104022},
+  doi={10.1109/ACCESS.2022.3210108}
+}
 ```
 
 ## Acknowledgement
